@@ -1,1 +1,1 @@
-# EECS_388_Project
+# EECS_348_Project
