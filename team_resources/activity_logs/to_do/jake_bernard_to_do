@@ -3,6 +3,12 @@ Member Name: Jake Bernard
 Project Role: Project Manager
 Lab Section: 4 PM Thursday
 
+[ ] Task in progress
+[X] Task complete
+[I] Task not completed
+[F] Task dropped/no need to complete
+[O] Task requires another to complete it (specify member in task name)
+
 ENTRIES:
   9/17/2023
   Changes/To-do:
